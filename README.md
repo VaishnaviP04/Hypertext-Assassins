@@ -7,7 +7,6 @@ Team Members :
 1. Spoorthy R            1JS19EC139
 2. Vaishnavi P           1JS19EC155
 3. Raghunandan V         1JS19EC108
-
-4.Chethan N V            1JB19CS189
+4. Chethan N V            1JB19CS189
 
 This repository consists of the code , report about the project.
